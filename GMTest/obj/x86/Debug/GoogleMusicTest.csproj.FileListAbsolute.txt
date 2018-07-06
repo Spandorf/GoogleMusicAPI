@@ -1,0 +1,21 @@
+D:\Downloads\NET-Google-Music-API-master\.NET-Google-Music-API-master\GoogleMusicTest\bin\Debug\Google Music API.exe.config
+D:\Downloads\NET-Google-Music-API-master\.NET-Google-Music-API-master\GoogleMusicTest\bin\Debug\Google Music API.exe
+D:\Downloads\NET-Google-Music-API-master\.NET-Google-Music-API-master\GoogleMusicTest\bin\Debug\Google Music API.pdb
+D:\Downloads\NET-Google-Music-API-master\.NET-Google-Music-API-master\GoogleMusicTest\bin\Debug\GoogleMusicAPI.dll
+D:\Downloads\NET-Google-Music-API-master\.NET-Google-Music-API-master\GoogleMusicTest\bin\Debug\protobuf-net.dll
+D:\Downloads\NET-Google-Music-API-master\.NET-Google-Music-API-master\GoogleMusicTest\bin\Debug\Newtonsoft.Json.dll
+D:\Downloads\NET-Google-Music-API-master\.NET-Google-Music-API-master\GoogleMusicTest\bin\Debug\System.Net.Http.Formatting.dll
+D:\Downloads\NET-Google-Music-API-master\.NET-Google-Music-API-master\GoogleMusicTest\bin\Debug\GoogleMusicAPI.pdb
+D:\Downloads\NET-Google-Music-API-master\.NET-Google-Music-API-master\GoogleMusicTest\bin\Debug\GoogleMusicAPI.dll.config
+D:\Downloads\NET-Google-Music-API-master\.NET-Google-Music-API-master\GoogleMusicTest\bin\Debug\protobuf-net.pdb
+D:\Downloads\NET-Google-Music-API-master\.NET-Google-Music-API-master\GoogleMusicTest\bin\Debug\protobuf-net.xml
+D:\Downloads\NET-Google-Music-API-master\.NET-Google-Music-API-master\GoogleMusicTest\bin\Debug\Newtonsoft.Json.xml
+D:\Downloads\NET-Google-Music-API-master\.NET-Google-Music-API-master\GoogleMusicTest\bin\Debug\System.Net.Http.Formatting.xml
+D:\Downloads\NET-Google-Music-API-master\.NET-Google-Music-API-master\GoogleMusicTest\obj\x86\Debug\GoogleMusicTest.csprojResolveAssemblyReference.cache
+D:\Downloads\NET-Google-Music-API-master\.NET-Google-Music-API-master\GoogleMusicTest\obj\x86\Debug\GoogleMusicTest.AddPlaylistForm.resources
+D:\Downloads\NET-Google-Music-API-master\.NET-Google-Music-API-master\GoogleMusicTest\obj\x86\Debug\GoogleMusicTest.GoogleTest.resources
+D:\Downloads\NET-Google-Music-API-master\.NET-Google-Music-API-master\GoogleMusicTest\obj\x86\Debug\GoogleMusicTest.Properties.Resources.resources
+D:\Downloads\NET-Google-Music-API-master\.NET-Google-Music-API-master\GoogleMusicTest\obj\x86\Debug\GoogleMusicTest.csproj.GenerateResource.Cache
+D:\Downloads\NET-Google-Music-API-master\.NET-Google-Music-API-master\GoogleMusicTest\obj\x86\Debug\GoogleMusicTest.csproj.CoreCompileInputs.cache
+D:\Downloads\NET-Google-Music-API-master\.NET-Google-Music-API-master\GoogleMusicTest\obj\x86\Debug\Google Music API.exe
+D:\Downloads\NET-Google-Music-API-master\.NET-Google-Music-API-master\GoogleMusicTest\obj\x86\Debug\Google Music API.pdb
